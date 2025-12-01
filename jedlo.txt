@@ -1,2 +1,3 @@
 "Polievka: SlepaŸia" 
 "Hlavn‚ jedlo: Rezne" 
+"Janko - jedlo" 

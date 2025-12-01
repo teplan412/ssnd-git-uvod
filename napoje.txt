@@ -1,2 +1,3 @@
 "Vino: Cervene" 
 "Pivo: Le§iak" 
+"Janko - napoje" 
